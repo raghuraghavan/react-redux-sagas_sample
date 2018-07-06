@@ -1,0 +1,9 @@
+{
+  "name": "sagas_example",
+  "version": "1.0.0",
+  "description": "Learning react with redux and sagas",
+  "main": "app.js",
+  "author": "Raghu Raghavan",
+  "license": "MIT",
+  "private": null
+}
